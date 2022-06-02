@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MusicActivity">
+
+    <ListView
+        android:id="@+id/songsList"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/bg444"
+        android:choiceMode="singleChoice"
+        app:layout_constraintBottom_toTopOf="@+id/jcplayer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.example.jean.jcplayer.view.JcPlayerView
+        android:id="@+id/jcplayer"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#1C0101"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:text_audio_title_color="@color/white"
+        app:next_icon="@drawable/ic_baseline_arrow_forward_ios_24"
+        app:next_icon_color="@color/white"
+        app:pause_icon="@drawable/ic_baseline_motion_photos_pause_24"
+        app:pause_icon_color="@color/white"
+        app:play_icon="@drawable/ic_baseline_play_circle_24"
+        app:play_icon_color="@color/white"
+        app:previous_icon="@drawable/ic_baseline_arrow_back_ios_new_24"
+        app:previous_icon_color="@color/white"
+        app:progress_color="@color/white"
+        app:random_icon_color="@color/white"
+        app:repeat_icon="@drawable/ic_baseline_repeat_24"
+        app:repeat_icon_color="@color/white"
+        app:seek_bar_color="@color/white"
+        app:text_audio_current_duration_color="@color/white"
+        app:text_audio_duration_color="@color/white"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>

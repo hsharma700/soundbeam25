@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "218889478048",
+    "firebase_url": "https://sound-beam21-default-rtdb.firebaseio.com",
+    "project_id": "sound-beam21",
+    "storage_bucket": "sound-beam21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218889478048:android:8d5720ff98aff7c96acec5",
+        "android_client_info": {
+          "package_name": "com.example.soundbeam21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218889478048-82ankkq3clcpgpj1ehmb6adl8eeda1k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyHMLDeKlwoSmM--l-i0s0RFabRkLsdxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218889478048-82ankkq3clcpgpj1ehmb6adl8eeda1k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218889478048:android:6b32910d7fb387de6acec5",
+        "android_client_info": {
+          "package_name": "com.example.soundbeam25"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218889478048-82ankkq3clcpgpj1ehmb6adl8eeda1k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyHMLDeKlwoSmM--l-i0s0RFabRkLsdxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218889478048-82ankkq3clcpgpj1ehmb6adl8eeda1k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

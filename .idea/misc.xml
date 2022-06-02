@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/drawable/button_layout.xml" value="0.1" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.1" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/drawable/ic_baseline_music_video_24.xml" value="0.2815" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/drawable/ic_queue_music_black_24dp.xml" value="0.2815" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/layout/activity_main.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/layout/activity_music.xml" value="0.1" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/layout/activity_splashscreen.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/layout/activity_upload_song.xml" value="0.25" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/layout/songs_list_layout.xml" value="0.1" />
+        <entry key="..\:/Users/himan/Downloads/Login-Signup-Ui-FLutter-starter/Soundbeam25/app/src/main/res/menu/app_menu.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
