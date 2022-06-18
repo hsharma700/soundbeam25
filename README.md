@@ -1,4 +1,5 @@
 # soundbeam25
+Project is based on music streaming app. In this you can add musics with their thumbnails and you can also rename it. It will store the music and thumbnails in the firebase storage and then it send the links to the database. For music player i have used jcplayer. 
 ![Screenshot 2022-06-06 194714](https://user-images.githubusercontent.com/70624640/174445513-4e20e0fa-de46-4ed5-a6ed-2621738b7b77.png)
 ![Screenshot 2022-06-06 194729](https://user-images.githubusercontent.com/70624640/174445525-a70273b3-3df3-4692-b9c3-676c044fd69c.png)
 ![Screenshot 2022-06-06 194744](https://user-images.githubusercontent.com/70624640/174445536-66a64bc8-12db-4075-8546-e76d1ac3bd38.png)
